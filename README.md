@@ -1,4 +1,4 @@
-### Opa visitante! 👋 Me chamo Rafael Sobrinho, estudante de Engenharia de Software, e amante da programação 😄
+### Opa visitante! 👋 Me chamo Rafael, estudante de Engenharia de Software, e amante da programação 😄
 
 #
 
