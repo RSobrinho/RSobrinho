@@ -1,4 +1,4 @@
-### Opa gente! 👋 Me chamo Rafael, estudante de Engenharia de Software, e amante da programação 😄
+### Opa visitante! 👋 Me chamo Rafael Sobrinho, estudante de Engenharia de Software, e amante da programação 😄
 
 #
 
@@ -13,7 +13,8 @@
 <div> 
   <a href="https://instagram.com/ra_sobrinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.rsobrinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rsobrinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rsobrinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/RRSobrinho" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/RSobrinho/RSobrinho/blob/output/github-contribution-grid-snake.svg)
  
