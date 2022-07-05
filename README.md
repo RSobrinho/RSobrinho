@@ -35,7 +35,7 @@
 </div>
 
 - <div style="display: inline_block">
-  <h4>Que tenho mais conhecimento prático (Continuei e continúo me desenvolvendo e praticando)</h4>
+  <h4>Que tenho mais conhecimento prático (Continuei e continuo me desenvolvendo e praticando)</h4>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
