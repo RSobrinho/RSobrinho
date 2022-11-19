@@ -1,4 +1,4 @@
-### Opa tudo tranquilo 👋?  Me chamo Rafael, sou estudante de Engenharia de Software na UFMS e futuro Engenheiro de Sucesso! 😄
+### Opa tudo tranquilo 👋?  Me chamo Rafael, atualmente estudante de Engenharia de Software na UFMS e futuro Engenheiro de Sucesso! 😄
 
 #
 
