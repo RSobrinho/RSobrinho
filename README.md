@@ -1,7 +1,7 @@
 # Eai, tranquilo? Me chamo Rafael 👋!
 Sou Engenheiro de Software com foco em desenvolvimento Back-End, com mais de 2 anos de experiência profissional. Graduado em Engenharia de Software e atualmente cursando o Mestrado em Ciência da Computação, atuo na criação de soluções escaláveis e robustas utilizando as melhores práticas do mercado, como TDD, DDD e arquiteturas de microserviços. Estou sempre em busca de novos desafios que me permitam transformar complexidade em valor real.
 
-![banner_github](https://github.com/user-attachments/assets/72c0fcff-6b65-40a8-a349-fa1070484606)
+![banner_github](https://github.com/user-attachments/assets/269be8f2-4fee-492b-bcc3-f5e1e6f0af24)
 
 <div align="center"> 
   <a href="https://instagram.com/ra_sobrinho" target="_blank">
