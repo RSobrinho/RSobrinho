@@ -1,5 +1,5 @@
-# Eai, tranquilo? Me chamo Rafael 👋!
-Sou Engenheiro de Software com foco em desenvolvimento Back-End, com mais de 2 anos de experiência profissional. Graduado em Engenharia de Software e atualmente cursando o Mestrado em Ciência da Computação, atuo na criação de soluções escaláveis e robustas utilizando as melhores práticas do mercado, como TDD, DDD e arquiteturas de microserviços. Estou sempre em busca de novos desafios que me permitam transformar complexidade em valor real.
+# Hey there, how’s it going? I’m Rafael 👋!
+I’m a Software Engineer specializing in Back-End development with over 2 years of professional experience. I hold a degree in Software Engineering and I’m currently pursuing my Master’s in Computer Science. I create scalable, robust solutions using industry best practices like TDD, DDD, and microservice architectures. I’m always on the lookout for new challenges that let me turn complexity into real value.
 
 ![banner_github](https://github.com/user-attachments/assets/269be8f2-4fee-492b-bcc3-f5e1e6f0af24)
 
@@ -16,31 +16,27 @@ Sou Engenheiro de Software com foco em desenvolvimento Back-End, com mais de 2 a
   <a href="https://t.me/RRSobrinho" target="_blank"> 
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> 
   </a> 
-    <a href="https://sobrinho.site/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Portifólio-3B82F6?style=for-the-badge" alt="PersonalSite"> 
-  </a> 
+<!--   <a href="https://sobrinho.site/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge" alt="Portfolio"> 
+  </a>  -->
 </div>
 
+## About Me
+- **Specialization:** Back-End Software Engineer experienced in high-performance environments.  
+- **Education:** Bachelor’s in Software Engineering; currently pursuing a Master’s in Computer Science.  
+- **Professional Focus:** Building reliable systems with an emphasis on TDD, DDD, microservices, and event-driven architectures.  
+- **Objective:** Drive technological innovation by optimizing resources and delivering real, measurable value.
 
-## Sobre Mim
-- Especialização: Back-End Software Engineer com experiência em ambientes de alta performance.
-- Formação: Graduado em Engenharia de Software, atualmente em Mestrado em Ciência da Computação.
-- Foco Profissional: Desenvolvimento de sistemas robustos, com ênfase em TDD, DDD, microserviços e soluções baseadas em eventos.
-- Objetivo: Contribuir com a inovação tecnológica, otimizando recursos e entregando valor real às organizações.
+## Tech Stack
 
+### Expertise & Experience
+- **Java & Spring Boot:** Designing robust APIs and microservices with modern practices (TDD, DDD).  
+- **Docker & Web Services:** Creating containerized environments and scalable services.  
+- **Databases & Build Tools:** MySQL, Maven, and CI/CD pipelines for automation and efficiency.  
+- **Event-Driven Architecture:** Implementing RabbitMQ solutions for resilient, decoupled systems.  
+- **Cloud & Monitoring:** AWS (EC2, RDS, S3, CloudWatch) alongside Datadog and Grafana for observability.
 
-## Stack Tecnológica
-
-### Domínio e Experiência
-
-- Java & Spring Boot: Desenvolvimento de APIs robustas e microserviços com práticas modernas (TDD, DDD).
-- Docker & Web Services: Criação de ambientes containerizados e serviços escaláveis.
-- Banco de Dados & Build Tools: MySQL, Maven e práticas de CI/CD para automação e eficiência.
-- Event-Driven Architecture: Implementação de soluções com RabbitMQ para sistemas resilientes.
-- Cloud & Monitoramento: AWS (EC2, RDS, S3, Cloudwatch) e ferramentas de monitoramento (Datadog, Grafana).
-
-### Conhecimentos Práticos e Ferramentas
-
-- TypeScript & NestJS: Desenvolvimento de back-ends modernos, com integração a chatbots e APIs RESTful.
-- Controle de Versão: Git e GitHub, com experiência em fluxo Trunk Based e Github Flow.
-- Automação e Scraping: Python, Selenium e uso do Chrome DevTools Protocol para automação e extração de dados.
+### Practical Knowledge & Tools
+- **TypeScript & NestJS:** Crafting modern back-ends with chatbot integrations and RESTful APIs.  
+- **Version Control:** Git & GitHub with trunk-based development and GitHub Flow.  
+- **Automation & Scraping:** Python, Selenium, and Chrome DevTools Protocol for reliable automation and data extraction.  
